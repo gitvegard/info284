@@ -3,3 +3,6 @@ nltk
 pandas
 gensim
 wordcloud
+torch
+torchvision
+
