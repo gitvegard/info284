@@ -5,3 +5,7 @@ gensim
 wordcloud
 torch
 torchvision
+keras
+scikit-learn
+tensorflow
+matplotlib
